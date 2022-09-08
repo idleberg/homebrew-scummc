@@ -3,6 +3,10 @@
 [![BSD 2-Clause License](https://flat.badgen.net/badge/license/BSD%202-Clause/blue)](https://opensource.org/licenses/BSD-2-Clause)
 [![Latest Release](https://flat.badgen.net/github/release/idleberg/homebrew-scummc)](https://github.com/idleberg/homebrew-scummc/releases)
 
+> **Warning**
+>
+> This project is work-in-progress and [needs your help](/issues)!
+
 Homebrew tap for [ScummC](https://github.com/AlbanBedel/scummc)
 
 ## Prerequisites
