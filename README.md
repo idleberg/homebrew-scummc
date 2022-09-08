@@ -5,7 +5,7 @@
 
 > **Warning**
 >
-> This project is work-in-progress and currently only installs the ScummC binaries
+> This project is work-in-progress and currently only installs the ScummC binaries. Any help to complete this formula is appreciated. Please post an [issue](/issue) to let me know what's missing!
 
 Homebrew tap for [ScummC](https://github.com/AlbanBedel/scummc)
 
