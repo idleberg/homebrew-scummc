@@ -1,3 +1,8 @@
+> **Warning**
+>
+> This project is work-in-progress and currently only installs the ScummC binaries. Any help to complete this formula is appreciated. Please post an [issue](/issue) to let me know what's missing!
+> 
+
 # homebrew-scummc
 
 [![BSD 2-Clause License](https://flat.badgen.net/badge/license/BSD%202-Clause/blue)](https://opensource.org/licenses/BSD-2-Clause)
